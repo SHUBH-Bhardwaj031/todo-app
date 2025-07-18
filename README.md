@@ -23,8 +23,4 @@ This is a simple command-line To-Do List app made using Python.
    - 4: Delete task
    - 5: Exit and save
 
-## Files
-- `todo.py` – the main Python script
-- `tasks.txt` – stores all tasks (automatically created)
 
-## Example
